@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass:400,700');
+
+
+body
+{
+    background: url('lub.gif');
+    font-family: 'Overpass', sans-serif;
+    font-style: bold;
+    text-align: center;   
+    
+
+}
+
+h1
+{
+    font-weight: bold;
+    color: #4056A1;
+    font-size: 72px;
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+    color: black;
+    
+}
+
+mark
+{
+    background-color: #ed3824;
+    color: white;
+}
+
+em 
+{
+    font-style: normal;
+    font-weight: bold;
+    color: #FD752C;
+}
+
+a.lee
+{
+    text-align: center;   
+    font-size: 35px;
+    font-weight: bold;
+ color: black;
+
+
+}
+
